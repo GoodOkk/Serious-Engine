@@ -83,3 +83,7 @@ Sources/SeriousSkaStudio/Scanner.cpp
 
 
 
+*.ctl
+Sources/DedicatedServer/DedicatedServer.vcxproj
+*.vcxproj
+*.vcxproj
